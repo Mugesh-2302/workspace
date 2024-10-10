@@ -1,0 +1,29 @@
+.todo-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .todo-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .todo-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f1f1f1;
+    margin-bottom: 10px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 0.9rem;
+  }
+  
+  .loading-spinner {
+    margin: 20px auto;
+    display: block;
+  }
+  

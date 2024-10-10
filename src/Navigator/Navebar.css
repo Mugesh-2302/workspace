@@ -1,0 +1,21 @@
+nav{
+    background-color: black;
+    color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+li{
+    list-style: none;
+   
+
+}
+ul{
+    display: flex;
+    gap: 25px;
+    margin-left: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}

@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "todo": "manwedsuba",
+      "id": 1
+    },
+    {
+      "todo": "hi",
+      "id": 8
+    },
+    {
+      "todo": "kishore",
+      "id": 9
+    },
+    {
+      "todo": "ed",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
